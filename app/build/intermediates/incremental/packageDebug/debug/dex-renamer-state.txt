@@ -1,0 +1,4 @@
+#Sat Nov 04 20:08:18 IST 2017
+base.0=/home/shadman/AndroidStudioProjects/Slide/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/shadman/AndroidStudioProjects/Slide/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
